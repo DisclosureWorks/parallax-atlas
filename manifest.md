@@ -12,6 +12,6 @@ It contains:
 - the correction policy and patch root; and
 - a page list with each public ID, title, repository path, public URL, SHA-256 hash, rights statement, provenance, and topic assignments.
 
-A page's `sha256` value is the hash of its Markdown file in the repository at the edition's commit. The site's HTML is a rendering of that Markdown, not the object whose hash appears in the manifest.
+A page's `sha256` value is the hash of its Markdown file in this site's public source repository, [github.com/DisclosureWorks/parallax-atlas](https://github.com/DisclosureWorks/parallax-atlas), at the edition's commit. The site's HTML is a rendering of that Markdown, not the object whose hash appears in the manifest.
 
 The correction fields point to `/corrections-removal/` and the visible patch roots under `/editions/2026-10-patch-N/`.

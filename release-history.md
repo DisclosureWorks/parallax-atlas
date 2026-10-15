@@ -6,11 +6,11 @@ Correction notices are listed on the [Correction Notice Register](corrections/in
 and removals on the [Removals Log](corrections/removals-log.md) page.
 
 ## 2026-10
-
-- Published pages: page count set at release
+- Published pages: 89
 - Immutable edition root: `/editions/2026-10/`
 - Movable latest pointer: `/latest/`
 - Patch releases: `/editions/2026-10-patch-N/`
+- Released: 2026-10-16
 
 ## Rescheduled draft
 

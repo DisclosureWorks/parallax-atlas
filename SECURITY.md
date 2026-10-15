@@ -4,24 +4,24 @@ Edition label: `2026-10`
 
 ## Security contact
 
-- Email: `security@urekalabs.ai`
-- Corrections and removal requests go to `corrections@urekalabs.ai`; see [Corrections and Removal](corrections-removal.md).
+- Email: `security@disclosureworks.ai`
+- Corrections and removal requests go to `corrections@disclosureworks.ai`; see [Corrections and Removal](corrections-removal.md).
 
-Use this repository only for the public Atlas contract and approved monthly edition data.
+This site and its public source repository, [github.com/DisclosureWorks/parallax-atlas](https://github.com/DisclosureWorks/parallax-atlas), carry only the public Atlas contract and approved monthly edition data.
 
 ### Report:
 
-Report these by email to the addresses above, not in a GitHub issue.
+Report these by email to the addresses above.
 
 - schema regressions
 - broken manifests
 - broken provenance links
 - security or privacy concerns
 
-## GitHub issues
+## Where to send reports
 
-Issues in this repository are not monitored. Send corrections, removal requests and feedback to
-`corrections@urekalabs.ai`, and security and privacy reports to `security@urekalabs.ai`.
+Send corrections, removal requests and feedback to `corrections@disclosureworks.ai`, and security
+and privacy reports to `security@disclosureworks.ai`. We don't take reports through GitHub.
 
 **Never post a victim's identity, a minor's identity, or anyone's private information in a
 public issue, pull request or comment.** Anything posted there is public at once and can be
@@ -37,13 +37,13 @@ A publication incident is any case where material reaches a public surface that 
 have. Specifically:
 
 - Restricted, sealed, or embargoed content published.
-- A victim or minor identified, in breach of [the redaction policy](https://parallax.urekalabs.ai/privacy/) § 2.
+- A victim or minor identified, in breach of [the redaction policy](https://publications.disclosureworks.ai/privacy/) § 2.
 - Sensitive personal data published — identity numbers, financial accounts, medical
   information, private contact details.
 - A credential or secret published.
 - Unreviewed content published — an item that never cleared
-  [legal and privacy review](https://parallax.urekalabs.ai/methods/).
-- Recovered-redaction content published, in breach of [the redaction policy](https://parallax.urekalabs.ai/privacy/) § 4.
+  [legal and privacy review](https://publications.disclosureworks.ai/methods/).
+- Recovered-redaction content published, in breach of [the redaction policy](https://publications.disclosureworks.ai/privacy/) § 4.
 - An item published to the wrong destination repository.
 - Internal paths, private source files, or application code appearing in a public build.
 

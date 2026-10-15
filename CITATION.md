@@ -2,7 +2,7 @@
 
 Edition label: `2026-10`
 
-This repository publishes the public Research Atlas.
+This site and its public source repository, [github.com/DisclosureWorks/parallax-atlas](https://github.com/DisclosureWorks/parallax-atlas), publish the public Research Atlas.
 
 Required citation fields:
 

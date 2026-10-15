@@ -1,0 +1,1089 @@
+{
+  "approvals_hash": "aa022b675725a4e8cc09c1644e0bae6692faa11404e8417110b42d1a21c2f0cd",
+  "corrections": {
+    "patch_root": "/editions/2026-10-patch-N/",
+    "policy": "/corrections-removal/"
+  },
+  "counts": {
+    "candidates": 89,
+    "passed": 89,
+    "published": 89
+  },
+  "edition": "2026-10",
+  "format": 1,
+  "pages": [
+    {
+      "path": "editions/2026-10/atlas-01ddbdf46d2d12ac962e38e57c964bec9fb88d63ec48c12d04fd0604805944e3.md",
+      "provenance": "Parallax research wiki page wiki/concepts/intelligence-authorization-act-1991.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-01ddbdf46d2d12ac962e38e57c964bec9fb88d63ec48c12d04fd0604805944e3",
+      "rights": "CC BY 4.0",
+      "sha256": "d735d2e21e97de46e40eec1921d07aade53516ffd12c3e3dadc6b6f163bc20fe",
+      "title": "Intelligence Authorization Act of 1991",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-10/atlas-01ddbdf46d2d12ac962e38e57c964bec9fb88d63ec48c12d04fd0604805944e3/"
+    },
+    {
+      "path": "editions/2026-10/atlas-02330b40bfb237f2f1fefc9f9003c284214db6598addcc8bf005354337ccc19b.md",
+      "provenance": "Parallax research wiki page wiki/concepts/reputational-laundering.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-02330b40bfb237f2f1fefc9f9003c284214db6598addcc8bf005354337ccc19b",
+      "rights": "CC BY 4.0",
+      "sha256": "fd5085273959f3962d131fa76aa49e9d6323b9370082169d7ac2501ca496bdbf",
+      "title": "Reputational Laundering",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-02330b40bfb237f2f1fefc9f9003c284214db6598addcc8bf005354337ccc19b/"
+    },
+    {
+      "path": "editions/2026-10/atlas-030885beb2bad9dcb8e273d9251f7c1aa7d3bbc0f7911080016499eec7ea3714.md",
+      "provenance": "Parallax research wiki page wiki/concepts/epstein-financial-crimes.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-030885beb2bad9dcb8e273d9251f7c1aa7d3bbc0f7911080016499eec7ea3714",
+      "rights": "CC BY 4.0",
+      "sha256": "dbc4980ec738d548896f4ed18d84c9fa2d09fccd05e7eb368884c2a991a46095",
+      "title": "Epstein Financial Crimes",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-030885beb2bad9dcb8e273d9251f7c1aa7d3bbc0f7911080016499eec7ea3714/"
+    },
+    {
+      "path": "editions/2026-10/atlas-0446b9e969c5f0a9972f0039d70993cc3c8781967fcfb363675b709bb1b66c0f.md",
+      "provenance": "Parallax research wiki page wiki/concepts/epstein-files-transparency-act.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-0446b9e969c5f0a9972f0039d70993cc3c8781967fcfb363675b709bb1b66c0f",
+      "rights": "CC BY 4.0",
+      "sha256": "7e232d31a474ea4349472ed88757d3b8f3a3a2c2e8d33ff2a9981f020dc63e29",
+      "title": "Epstein Files Transparency Act",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-10/atlas-0446b9e969c5f0a9972f0039d70993cc3c8781967fcfb363675b709bb1b66c0f/"
+    },
+    {
+      "path": "editions/2026-10/atlas-07a90bdc21a8ec30bd9dbc79bce1fc1fc5847350970916ef9ab9abcd9a8f13ff.md",
+      "provenance": "Parallax research wiki page wiki/concepts/reasonable-expectation-of-privacy.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-07a90bdc21a8ec30bd9dbc79bce1fc1fc5847350970916ef9ab9abcd9a8f13ff",
+      "rights": "CC BY 4.0",
+      "sha256": "db7a6c8a62dd2f751d6aee8c8e844d3c32ab731f388daa80dd7c40c61ea7f8a2",
+      "title": "Reasonable Expectation of Privacy",
+      "topics": [
+        "oversight/surveillance-law"
+      ],
+      "url": "/editions/2026-10/atlas-07a90bdc21a8ec30bd9dbc79bce1fc1fc5847350970916ef9ab9abcd9a8f13ff/"
+    },
+    {
+      "path": "editions/2026-10/atlas-0ed32bbe578b98e7f1357e289be0fd9f04398c855ce8c539d27cc87ebd3c07ef.md",
+      "provenance": "Parallax research wiki page wiki/concepts/lolita-express.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-0ed32bbe578b98e7f1357e289be0fd9f04398c855ce8c539d27cc87ebd3c07ef",
+      "rights": "CC BY 4.0",
+      "sha256": "e691cc80bfb52b33ac14d8c16425b158ccdc6c74829fbe11b4399d6c3b44f4c1",
+      "title": "Lolita Express",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-0ed32bbe578b98e7f1357e289be0fd9f04398c855ce8c539d27cc87ebd3c07ef/"
+    },
+    {
+      "path": "editions/2026-10/atlas-0f307feab3ddfda836d85d9f453ce4a306b2f73fc243cec5b26b3439087863f5.md",
+      "provenance": "Parallax research wiki page wiki/concepts/black-epstein-advisory.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-0f307feab3ddfda836d85d9f453ce4a306b2f73fc243cec5b26b3439087863f5",
+      "rights": "CC BY 4.0",
+      "sha256": "5decc9951242f1f4a506d97d6cca8991f4a0478a10e00993f9b47dcc00d5d543",
+      "title": "Black-Epstein Advisory Relationship",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-0f307feab3ddfda836d85d9f453ce4a306b2f73fc243cec5b26b3439087863f5/"
+    },
+    {
+      "path": "editions/2026-10/atlas-11ce54ab8e5313ea5d7eb90765c51a306ac32ec0e629a08ae95479fb3ba06e67.md",
+      "provenance": "Parallax research wiki page wiki/concepts/presidents-intelligence-oversight-board.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-11ce54ab8e5313ea5d7eb90765c51a306ac32ec0e629a08ae95479fb3ba06e67",
+      "rights": "CC BY 4.0",
+      "sha256": "297cbb8fbbf9e66f4a3d403e006d56fe4108b4e171bc3476313d7e8289b94e00",
+      "title": "President's Intelligence Oversight Board",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-10/atlas-11ce54ab8e5313ea5d7eb90765c51a306ac32ec0e629a08ae95479fb3ba06e67/"
+    },
+    {
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive.",
+      "path": "editions/2026-10/atlas-122d87e714caa75f3518a5c3e151281d933d52840552af42999cbc771fd64b7e.md",
+      "provenance": "Parallax research wiki page wiki/concepts/operation-midnight-climax.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-122d87e714caa75f3518a5c3e151281d933d52840552af42999cbc771fd64b7e",
+      "rights": "CC BY 4.0",
+      "sha256": "b5e3160f52c3c93c44613c4a6738df1d11b2a225c1a001e3c930fb4d831efdd9",
+      "title": "Operation Midnight Climax",
+      "topics": [
+        "epstein/historical-precursors"
+      ],
+      "url": "/editions/2026-10/atlas-122d87e714caa75f3518a5c3e151281d933d52840552af42999cbc771fd64b7e/"
+    },
+    {
+      "path": "editions/2026-10/atlas-1453d3f0ac3b7625350d5027ed114b877d8bf617c9c59f32635f5554cb86aa05.md",
+      "provenance": "Parallax research wiki page wiki/concepts/executive-power-foreign-affairs.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-1453d3f0ac3b7625350d5027ed114b877d8bf617c9c59f32635f5554cb86aa05",
+      "rights": "CC BY 4.0",
+      "sha256": "d76d86aeac55118bfd4e74e848bbfe899b4200471ca19421f599b5b237c4fd4b",
+      "title": "Executive Power in Foreign Affairs",
+      "topics": [
+        "oversight/executive-power"
+      ],
+      "url": "/editions/2026-10/atlas-1453d3f0ac3b7625350d5027ed114b877d8bf617c9c59f32635f5554cb86aa05/"
+    },
+    {
+      "path": "editions/2026-10/atlas-166513eaa24763532c82596d521fef7e53419474ea90aab6295d8058d85d29ed.md",
+      "provenance": "Parallax research wiki page wiki/concepts/cia-domestic-surveillance.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-166513eaa24763532c82596d521fef7e53419474ea90aab6295d8058d85d29ed",
+      "rights": "CC BY 4.0",
+      "sha256": "f67dc60bf6c4748838d6888ab9e5492f1153006cabb8729912739043c8905d60",
+      "title": "CIA Domestic Surveillance",
+      "topics": [
+        "oversight/investigations-1975"
+      ],
+      "url": "/editions/2026-10/atlas-166513eaa24763532c82596d521fef7e53419474ea90aab6295d8058d85d29ed/"
+    },
+    {
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive.",
+      "path": "editions/2026-10/atlas-1cd9fb4e34fc3c98f694c08e5afc308dc9aa0f545c36cf1529cc049a96cb997a.md",
+      "provenance": "Parallax research wiki page wiki/concepts/mena-operations.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-1cd9fb4e34fc3c98f694c08e5afc308dc9aa0f545c36cf1529cc049a96cb997a",
+      "rights": "CC BY 4.0",
+      "sha256": "8362bc2e018992fdee1d3c6fa61ee9ee7234718dd1892d442e821aec06fa6fa1",
+      "title": "Mena Operations",
+      "topics": [
+        "epstein/historical-precursors"
+      ],
+      "url": "/editions/2026-10/atlas-1cd9fb4e34fc3c98f694c08e5afc308dc9aa0f545c36cf1529cc049a96cb997a/"
+    },
+    {
+      "path": "editions/2026-10/atlas-1ed123f0b1b3e7febfca57db46ded3bce48f88dcdc5a143069823dca13b83b91.md",
+      "provenance": "Parallax research wiki page wiki/concepts/limited-notification-inoculation.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-1ed123f0b1b3e7febfca57db46ded3bce48f88dcdc5a143069823dca13b83b91",
+      "rights": "CC BY 4.0",
+      "sha256": "71201e2ad14ed537787942b6b75200bb12688e8fa14c299f058a8b106d93e22a",
+      "title": "Limited Notification as Inoculation",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-10/atlas-1ed123f0b1b3e7febfca57db46ded3bce48f88dcdc5a143069823dca13b83b91/"
+    },
+    {
+      "path": "editions/2026-10/atlas-20f37534162bdbffa86714d1f40ef633eb5f92724321bbf4b7abb6d8cedc208a.md",
+      "provenance": "Parallax research wiki page wiki/concepts/covert-action.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-20f37534162bdbffa86714d1f40ef633eb5f92724321bbf4b7abb6d8cedc208a",
+      "rights": "CC BY 4.0",
+      "sha256": "4c982cb6440ede151186b9ca26959b5dfda969efabf68464af21abb0d8675845",
+      "title": "Covert Action",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-20f37534162bdbffa86714d1f40ef633eb5f92724321bbf4b7abb6d8cedc208a/"
+    },
+    {
+      "path": "editions/2026-10/atlas-25d08952a4eb205f3b2d1eafae3343439ffe2d26b98801dacaea6d7dffb788d7.md",
+      "provenance": "Parallax research wiki page wiki/concepts/sar-failure.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-25d08952a4eb205f3b2d1eafae3343439ffe2d26b98801dacaea6d7dffb788d7",
+      "rights": "CC BY 4.0",
+      "sha256": "31c2f2cab7702ed6a38e1f148cac88759a8c2401333fcbc884c06ecd37383a34",
+      "title": "SAR Failure",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-25d08952a4eb205f3b2d1eafae3343439ffe2d26b98801dacaea6d7dffb788d7/"
+    },
+    {
+      "path": "editions/2026-10/atlas-26a663e4325416ed9e23bd12d898198f31b961268d2635860f2c032c5cf97620.md",
+      "provenance": "Parallax research wiki page wiki/concepts/chain-reaction.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-26a663e4325416ed9e23bd12d898198f31b961268d2635860f2c032c5cf97620",
+      "rights": "CC BY 4.0",
+      "sha256": "e1f1d6f7ba20df5f382f14bd29a795d97e2ecd27877d9eed7713b92f9ec8e7f4",
+      "title": "OCDETF Operation Chain Reaction",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-10/atlas-26a663e4325416ed9e23bd12d898198f31b961268d2635860f2c032c5cf97620/"
+    },
+    {
+      "path": "editions/2026-10/atlas-273f511a70ee65148b5de2dc0bfc90677a8dfef583ffe4ee71e10bacfc7b20c9.md",
+      "provenance": "Parallax research wiki page wiki/concepts/hughes-ryan-amendment.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-273f511a70ee65148b5de2dc0bfc90677a8dfef583ffe4ee71e10bacfc7b20c9",
+      "rights": "CC BY 4.0",
+      "sha256": "38b4973dd8d58979a096a162314d08be40eb08a1a4b3b5d33ca37fa810cf8538",
+      "title": "Hughes-Ryan Amendment",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-10/atlas-273f511a70ee65148b5de2dc0bfc90677a8dfef583ffe4ee71e10bacfc7b20c9/"
+    },
+    {
+      "path": "editions/2026-10/atlas-27921b10cb3cdde5dc90a6846d7d74b734dcb0c276d434b5ccbfd41bab9a4381.md",
+      "provenance": "Parallax research wiki page wiki/concepts/bank-secrecy-act.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-27921b10cb3cdde5dc90a6846d7d74b734dcb0c276d434b5ccbfd41bab9a4381",
+      "rights": "CC BY 4.0",
+      "sha256": "629c5d5b92870f1940e34986167872f25aa338d94e310dbeb078fe23a90c04f7",
+      "title": "Bank Secrecy Act",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-10/atlas-27921b10cb3cdde5dc90a6846d7d74b734dcb0c276d434b5ccbfd41bab9a4381/"
+    },
+    {
+      "path": "editions/2026-10/atlas-27a5255e75c8b7189218433d8640b0342bd1ed7114879ef40fa55ef4f56006a8.md",
+      "provenance": "Parallax research wiki page wiki/concepts/non-prosecution-agreement.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-27a5255e75c8b7189218433d8640b0342bd1ed7114879ef40fa55ef4f56006a8",
+      "rights": "CC BY 4.0",
+      "sha256": "256ffdc563915ccec7935365489b770069a4a8477acbf487e7fb7388a5f3167e",
+      "title": "Non-Prosecution Agreement (Florida NPA)",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-10/atlas-27a5255e75c8b7189218433d8640b0342bd1ed7114879ef40fa55ef4f56006a8/"
+    },
+    {
+      "path": "editions/2026-10/atlas-2a344adb9a20f49e51805f89cc3d118e47408e53e0804de6f9543bd675f00c90.md",
+      "provenance": "Parallax research wiki page wiki/concepts/ocdetf.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-2a344adb9a20f49e51805f89cc3d118e47408e53e0804de6f9543bd675f00c90",
+      "rights": "CC BY 4.0",
+      "sha256": "a0531175a49aa36f0e1d7153c66bc92b9b6f06c061ccdd0e288dd68cb1aaf32e",
+      "title": "Organized Crime Drug Enforcement Task Forces (OCDETF)",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-10/atlas-2a344adb9a20f49e51805f89cc3d118e47408e53e0804de6f9543bd675f00c90/"
+    },
+    {
+      "path": "editions/2026-10/atlas-2c308c28e3f2c0f9c43e146a277010abcd9a074db6632d017c194108623f8a92.md",
+      "provenance": "Parallax research wiki page wiki/concepts/national-security-state.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-2c308c28e3f2c0f9c43e146a277010abcd9a074db6632d017c194108623f8a92",
+      "rights": "CC BY 4.0",
+      "sha256": "ce5e1009e85e8db3a813d28357401ac84e6feff571bbbfad5f596c89c389b1cc",
+      "title": "National Security State",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-10/atlas-2c308c28e3f2c0f9c43e146a277010abcd9a074db6632d017c194108623f8a92/"
+    },
+    {
+      "path": "editions/2026-10/atlas-351bd49e59099224f4e9cb3f814f118b3e5392d503c606823af6809990960242.md",
+      "provenance": "Parallax research wiki page wiki/concepts/war-powers-resolution.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-351bd49e59099224f4e9cb3f814f118b3e5392d503c606823af6809990960242",
+      "rights": "CC BY 4.0",
+      "sha256": "4a67379a0d61f2cb3d4c27d25bfbacfd8f309f8de7c8834a86a4650b13bf5451",
+      "title": "War Powers Resolution",
+      "topics": [
+        "oversight/executive-power"
+      ],
+      "url": "/editions/2026-10/atlas-351bd49e59099224f4e9cb3f814f118b3e5392d503c606823af6809990960242/"
+    },
+    {
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive.",
+      "path": "editions/2026-10/atlas-36c083b283db9e680f9e84e42dfb601f1ab597e2917677d83740c92ba645b909.md",
+      "provenance": "Parallax research wiki page wiki/concepts/operation-underworld.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-36c083b283db9e680f9e84e42dfb601f1ab597e2917677d83740c92ba645b909",
+      "rights": "CC BY 4.0",
+      "sha256": "f95ae67e4666853f80a5d9f644b7979faf67aaf6b6b0647c792202c9a5c9aa41",
+      "title": "Operation Underworld",
+      "topics": [
+        "epstein/historical-precursors"
+      ],
+      "url": "/editions/2026-10/atlas-36c083b283db9e680f9e84e42dfb601f1ab597e2917677d83740c92ba645b909/"
+    },
+    {
+      "path": "editions/2026-10/atlas-38bc98b898c98ef9ad8ab5081f8a7a6444bc0d2c672ea01916635d9b14985ce3.md",
+      "provenance": "Parallax research wiki page wiki/concepts/intelligence-evaluation-committee.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-38bc98b898c98ef9ad8ab5081f8a7a6444bc0d2c672ea01916635d9b14985ce3",
+      "rights": "CC BY 4.0",
+      "sha256": "af9dda74c5a23ca6d5bdd5ef5098b5506d5f54f308fa0eb7edc718e5355e75e0",
+      "title": "Intelligence Evaluation Committee",
+      "topics": [
+        "oversight/investigations-1975"
+      ],
+      "url": "/editions/2026-10/atlas-38bc98b898c98ef9ad8ab5081f8a7a6444bc0d2c672ea01916635d9b14985ce3/"
+    },
+    {
+      "path": "editions/2026-10/atlas-3c1bc732e65dc120c33d5bf82f0bebf2f7870d8d52163cdcfbd00bfe59daa24d.md",
+      "provenance": "Parallax research wiki page wiki/concepts/police-patrol-fire-alarm-oversight.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-3c1bc732e65dc120c33d5bf82f0bebf2f7870d8d52163cdcfbd00bfe59daa24d",
+      "rights": "CC BY 4.0",
+      "sha256": "a08722e639984e1e310d2802d6cae36624ab66c84670a8dd25e982c5cec1a6ef",
+      "title": "Police Patrol vs. Fire Alarm Oversight",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-10/atlas-3c1bc732e65dc120c33d5bf82f0bebf2f7870d8d52163cdcfbd00bfe59daa24d/"
+    },
+    {
+      "path": "editions/2026-10/atlas-3cee46f0f254385b38ab1371fce94564b7b27efb476226fa76e73501b12a833d.md",
+      "provenance": "Parallax research wiki page wiki/concepts/youngstown-three-zone-framework.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-3cee46f0f254385b38ab1371fce94564b7b27efb476226fa76e73501b12a833d",
+      "rights": "CC BY 4.0",
+      "sha256": "b2fc84787f16b9ebd84ea8d40306ed3a6ccffd40c9ef797b262f52fd67979ea4",
+      "title": "Youngstown Three-Zone Framework",
+      "topics": [
+        "oversight/executive-power"
+      ],
+      "url": "/editions/2026-10/atlas-3cee46f0f254385b38ab1371fce94564b7b27efb476226fa76e73501b12a833d/"
+    },
+    {
+      "path": "editions/2026-10/atlas-45697e7c48302414e23da6a9509751d50ea8c9390b5a2139c1296c39eeade41e.md",
+      "provenance": "Parallax research wiki page wiki/concepts/congressional-oversight-typology.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-45697e7c48302414e23da6a9509751d50ea8c9390b5a2139c1296c39eeade41e",
+      "rights": "CC BY 4.0",
+      "sha256": "4d27350736c6ab4f175d636ead20ee78b575522f19b66793424ac5d62b74cded",
+      "title": "Congressional Oversight Typology (Haas 2x2)",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-10/atlas-45697e7c48302414e23da6a9509751d50ea8c9390b5a2139c1296c39eeade41e/"
+    },
+    {
+      "path": "editions/2026-10/atlas-45f2f1e6f0d0a8c6396c56b715599f8df7f8ebfb2d274c972e9037895eb1f59c.md",
+      "provenance": "Parallax research wiki page wiki/concepts/foreign-intelligence-surveillance.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-45f2f1e6f0d0a8c6396c56b715599f8df7f8ebfb2d274c972e9037895eb1f59c",
+      "rights": "CC BY 4.0",
+      "sha256": "a7b13ae4c2d073bbbc80c04409fd3379a2447e6aeab3488fcd27f1b82470bbe8",
+      "title": "Foreign Intelligence Surveillance",
+      "topics": [
+        "oversight/surveillance-law"
+      ],
+      "url": "/editions/2026-10/atlas-45f2f1e6f0d0a8c6396c56b715599f8df7f8ebfb2d274c972e9037895eb1f59c/"
+    },
+    {
+      "path": "editions/2026-10/atlas-4d6792d063d36a8dd1df44c0d64a2d384b23f3d889361380aa5486cd17c974ab.md",
+      "provenance": "Parallax research wiki page wiki/concepts/iran-contra-cover-up.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-4d6792d063d36a8dd1df44c0d64a2d384b23f3d889361380aa5486cd17c974ab",
+      "rights": "CC BY 4.0",
+      "sha256": "9479bc1c87d0db8fca698ba1cc61492f44ffd16574121d795981b918d32c4ee5",
+      "title": "Iran-Contra Cover-Up",
+      "topics": [
+        "oversight/iran-contra"
+      ],
+      "url": "/editions/2026-10/atlas-4d6792d063d36a8dd1df44c0d64a2d384b23f3d889361380aa5486cd17c974ab/"
+    },
+    {
+      "path": "editions/2026-10/atlas-4e02d23c7ed2209d0812ba27e338faacdceab754118a1bfa4073f495adf79a77.md",
+      "provenance": "Parallax research wiki page wiki/concepts/cipa-classified-information.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-4e02d23c7ed2209d0812ba27e338faacdceab754118a1bfa4073f495adf79a77",
+      "rights": "CC BY 4.0",
+      "sha256": "967e00cac705203e18fd9092653e1fd7dd65bbc5e1b1abab5a1b189e4b3dc1a0",
+      "title": "CIPA — Classified Information Procedures Act",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-10/atlas-4e02d23c7ed2209d0812ba27e338faacdceab754118a1bfa4073f495adf79a77/"
+    },
+    {
+      "path": "editions/2026-10/atlas-50ced1a06bfa4c7969afbb7aac40c27be2d91cf2d5431ddb111ab0411cc33e08.md",
+      "provenance": "Parallax research wiki page wiki/concepts/suspicious-activity-reports.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-50ced1a06bfa4c7969afbb7aac40c27be2d91cf2d5431ddb111ab0411cc33e08",
+      "rights": "CC BY 4.0",
+      "sha256": "2cf70220e6c150d15e21b4844d95da58caa24be2a8c2c2d756e33b4c69c60a07",
+      "title": "Suspicious Activity Reports",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-10/atlas-50ced1a06bfa4c7969afbb7aac40c27be2d91cf2d5431ddb111ab0411cc33e08/"
+    },
+    {
+      "path": "editions/2026-10/atlas-569e4baa6fc87b15c162b6e5cebd20ed9d54ca8e4845580c099e010a730a8060.md",
+      "provenance": "Parallax research wiki page wiki/concepts/money-laundering-cycle.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-569e4baa6fc87b15c162b6e5cebd20ed9d54ca8e4845580c099e010a730a8060",
+      "rights": "CC BY 4.0",
+      "sha256": "91a1aba50e33ac59c7418796b47bffc5fb526d10e5c72b475f48be809a33db3d",
+      "title": "Money Laundering Cycle",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-569e4baa6fc87b15c162b6e5cebd20ed9d54ca8e4845580c099e010a730a8060/"
+    },
+    {
+      "path": "editions/2026-10/atlas-57fbb56c98455e69a6a52b3b6c5a4fff423bc09eb5ac43701cbee952f9162362.md",
+      "provenance": "Parallax research wiki page wiki/concepts/intelligence-oversight-act-1980.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-57fbb56c98455e69a6a52b3b6c5a4fff423bc09eb5ac43701cbee952f9162362",
+      "rights": "CC BY 4.0",
+      "sha256": "69f374d0d9438460345a60804a6ab64635a1d50d96f3dffdc84caa085877b805",
+      "title": "Intelligence Oversight Act of 1980",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-10/atlas-57fbb56c98455e69a6a52b3b6c5a4fff423bc09eb5ac43701cbee952f9162362/"
+    },
+    {
+      "path": "editions/2026-10/atlas-58e2263a862ef105fe8cad51e6a772eeade53b95d0890e23ad597ab30d584d1c.md",
+      "provenance": "Parallax research wiki page wiki/concepts/iran-contra-diversion.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-58e2263a862ef105fe8cad51e6a772eeade53b95d0890e23ad597ab30d584d1c",
+      "rights": "CC BY 4.0",
+      "sha256": "5d7fcd80531d606994299fbaff24f5994a1f75fef994d19abbe773ea852ef662",
+      "title": "The Iran-Contra Diversion",
+      "topics": [
+        "oversight/iran-contra"
+      ],
+      "url": "/editions/2026-10/atlas-58e2263a862ef105fe8cad51e6a772eeade53b95d0890e23ad597ab30d584d1c/"
+    },
+    {
+      "path": "editions/2026-10/atlas-66cdd8443ab6cb5a8313b378422f4b1137d81259c4061ec94a815378b253978d.md",
+      "provenance": "Parallax research wiki page wiki/concepts/welch-assassination-1975.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-66cdd8443ab6cb5a8313b378422f4b1137d81259c4061ec94a815378b253978d",
+      "rights": "CC BY 4.0",
+      "sha256": "45e514fea2696ebd4dfd9649ccc6cb9445e1629688840721ac508829c043e035",
+      "title": "Welch Assassination and Ford WH Propaganda Exploitation",
+      "topics": [
+        "oversight/investigations-1975"
+      ],
+      "url": "/editions/2026-10/atlas-66cdd8443ab6cb5a8313b378422f4b1137d81259c4061ec94a815378b253978d/"
+    },
+    {
+      "path": "editions/2026-10/atlas-6bf7a2b33962334bedf554eb4a6d2de104fc5a6765652be5fcae804f98326c20.md",
+      "provenance": "Parallax research wiki page wiki/concepts/nsdd-286.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-6bf7a2b33962334bedf554eb4a6d2de104fc5a6765652be5fcae804f98326c20",
+      "rights": "CC BY 4.0",
+      "sha256": "2f4a1c06dd95ff042fe4849d87d6b853f0e8bc52587a5df03f174924a97ec890",
+      "title": "NSDD-286 (1987)",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-10/atlas-6bf7a2b33962334bedf554eb4a6d2de104fc5a6765652be5fcae804f98326c20/"
+    },
+    {
+      "path": "editions/2026-10/atlas-6ec21ac8a08d3f484e5216e1e7c3605cb8324203dcde68130a20ce5ff59b682d.md",
+      "provenance": "Parallax research wiki page wiki/concepts/in-re-wild-doctrine.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-6ec21ac8a08d3f484e5216e1e7c3605cb8324203dcde68130a20ce5ff59b682d",
+      "rights": "CC BY 4.0",
+      "sha256": "ee9047392d54fbbf06fefbdf482ba37e7d607101363a00342b5ac3d6aa895121",
+      "title": "In re Wild Doctrine",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-10/atlas-6ec21ac8a08d3f484e5216e1e7c3605cb8324203dcde68130a20ce5ff59b682d/"
+    },
+    {
+      "path": "editions/2026-10/atlas-703982ce39b3c2b6d60fdfdf3f70a5b251883bd8350012ce48e492e28119857a.md",
+      "provenance": "Parallax research wiki page wiki/concepts/trespass-doctrine.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-703982ce39b3c2b6d60fdfdf3f70a5b251883bd8350012ce48e492e28119857a",
+      "rights": "CC BY 4.0",
+      "sha256": "3c6109783af39598e37fde28ed79b701b1bb70fe66a761e2466fb6997e991b00",
+      "title": "Trespass Doctrine",
+      "topics": [
+        "oversight/surveillance-law"
+      ],
+      "url": "/editions/2026-10/atlas-703982ce39b3c2b6d60fdfdf3f70a5b251883bd8350012ce48e492e28119857a/"
+    },
+    {
+      "path": "editions/2026-10/atlas-706166c0f6450e742804b4f15f790efd112649d5c7724f4ab54b4298de2ff6ca.md",
+      "provenance": "Parallax research wiki page wiki/concepts/surveillance-doctrine.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-706166c0f6450e742804b4f15f790efd112649d5c7724f4ab54b4298de2ff6ca",
+      "rights": "CC BY 4.0",
+      "sha256": "2f91c955039934b7f298b809c5ae0bbbc7ef074fe828ea4ea3abdc192136fcd6",
+      "title": "Surveillance Doctrine",
+      "topics": [
+        "oversight/surveillance-law"
+      ],
+      "url": "/editions/2026-10/atlas-706166c0f6450e742804b4f15f790efd112649d5c7724f4ab54b4298de2ff6ca/"
+    },
+    {
+      "path": "editions/2026-10/atlas-738c87f0e4eb092ad2ff0b9551d6d417329b07c0ff37724f2e92d59b59859d92.md",
+      "provenance": "Parallax research wiki page wiki/concepts/foreign-policy-oversight.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-738c87f0e4eb092ad2ff0b9551d6d417329b07c0ff37724f2e92d59b59859d92",
+      "rights": "CC BY 4.0",
+      "sha256": "63bdf965619e89ea3e8e49efbf3d424dae46675cb9308c2d5d54421c5cf5ade9",
+      "title": "Foreign Policy Oversight",
+      "topics": [
+        "oversight/executive-power"
+      ],
+      "url": "/editions/2026-10/atlas-738c87f0e4eb092ad2ff0b9551d6d417329b07c0ff37724f2e92d59b59859d92/"
+    },
+    {
+      "path": "editions/2026-10/atlas-76b041da47fbedd18a3c99347dc38ca7b7ea0b0ba8334d2f8320a1cfaeac34df.md",
+      "provenance": "Parallax research wiki page wiki/concepts/charter-legislation.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-76b041da47fbedd18a3c99347dc38ca7b7ea0b0ba8334d2f8320a1cfaeac34df",
+      "rights": "CC BY 4.0",
+      "sha256": "04c032acc682878c87fb744a6600efe9152eb5c3b0facb344b8ed8e2f782824d",
+      "title": "Charter Legislation (1978–1980)",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-10/atlas-76b041da47fbedd18a3c99347dc38ca7b7ea0b0ba8334d2f8320a1cfaeac34df/"
+    },
+    {
+      "path": "editions/2026-10/atlas-7a499bd3c9efb75539c2019a7fc30f92ee7e42c7d526b3a35d800f4edc9fb49a.md",
+      "provenance": "Parallax research wiki page wiki/concepts/southern-trust-dna.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-7a499bd3c9efb75539c2019a7fc30f92ee7e42c7d526b3a35d800f4edc9fb49a",
+      "rights": "CC BY 4.0",
+      "sha256": "edb1475b120a96bc64311e342ec825e22e52280f4219408f92cbf1730d27bb36",
+      "title": "Southern Trust and DNA Mining",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-7a499bd3c9efb75539c2019a7fc30f92ee7e42c7d526b3a35d800f4edc9fb49a/"
+    },
+    {
+      "path": "editions/2026-10/atlas-8010d880a5ec95c5a5a2aebe54d1e4acf99e7510df45f5c6096ed3146dae0ca5.md",
+      "provenance": "Parallax research wiki page wiki/concepts/invitation-to-struggle.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-8010d880a5ec95c5a5a2aebe54d1e4acf99e7510df45f5c6096ed3146dae0ca5",
+      "rights": "CC BY 4.0",
+      "sha256": "0b772e3866f7b84a0f056397fd9a739d6a84a29fefa380533d53c12907d9e1de",
+      "title": "\"Invitation to Struggle\"",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-10/atlas-8010d880a5ec95c5a5a2aebe54d1e4acf99e7510df45f5c6096ed3146dae0ca5/"
+    },
+    {
+      "path": "editions/2026-10/atlas-84a79dcd6284504dae1690a77238e4aa6b6fa9d634832a263f8489d330d3175e.md",
+      "provenance": "Parallax research wiki page wiki/concepts/grand-jury-secrecy.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-84a79dcd6284504dae1690a77238e4aa6b6fa9d634832a263f8489d330d3175e",
+      "rights": "CC BY 4.0",
+      "sha256": "409ec9dafa660aae5818bbc7350f32a23ae628ca64d942cd6f44acc587cb798f",
+      "title": "Grand Jury Secrecy (FRCP 6(e))",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-10/atlas-84a79dcd6284504dae1690a77238e4aa6b6fa9d634832a263f8489d330d3175e/"
+    },
+    {
+      "path": "editions/2026-10/atlas-861bb8d1da8b2c70d0fbb712e0335b338f1c0dd19d9490a41772ec37a36a3af8.md",
+      "provenance": "Parallax research wiki page wiki/concepts/fisa.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-861bb8d1da8b2c70d0fbb712e0335b338f1c0dd19d9490a41772ec37a36a3af8",
+      "rights": "CC BY 4.0",
+      "sha256": "5ecb4d91626be10a65eb950f458ea09a36b382c056d436a7675f768424bd32e0",
+      "title": "Foreign Intelligence Surveillance Act (FISA)",
+      "topics": [
+        "oversight/surveillance-law"
+      ],
+      "url": "/editions/2026-10/atlas-861bb8d1da8b2c70d0fbb712e0335b338f1c0dd19d9490a41772ec37a36a3af8/"
+    },
+    {
+      "path": "editions/2026-10/atlas-8641f156c34ab490b11696067ce85ef69c23561dbc13b946ee81cc548bed4e35.md",
+      "provenance": "Parallax research wiki page wiki/concepts/security-commission-pattern.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-8641f156c34ab490b11696067ce85ef69c23561dbc13b946ee81cc548bed4e35",
+      "rights": "CC BY 4.0",
+      "sha256": "3b2e88ff6ad9c5214b98a005308f82ebce31ea2ce9d1013ead9e7bc6013ecf8b",
+      "title": "Security Commission Pattern",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-10/atlas-8641f156c34ab490b11696067ce85ef69c23561dbc13b946ee81cc548bed4e35/"
+    },
+    {
+      "path": "editions/2026-10/atlas-879ce31c2fddd7e7f4c07a1363b8386dd3f89fff53e5ac6c79ac91affb6dd996.md",
+      "provenance": "Parallax research wiki page wiki/concepts/edge-foundation.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-879ce31c2fddd7e7f4c07a1363b8386dd3f89fff53e5ac6c79ac91affb6dd996",
+      "rights": "CC BY 4.0",
+      "sha256": "b6d0f5f18fbfe92ac4fb5fb46a5b24f19a902f3e13a90ae0d80bf70b1355b7f4",
+      "title": "Edge Foundation",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-879ce31c2fddd7e7f4c07a1363b8386dd3f89fff53e5ac6c79ac91affb6dd996/"
+    },
+    {
+      "path": "editions/2026-10/atlas-8af426c9a4a0396450e125732e0a2da1687d8ba04d8e6caf16c17ce9e8566559.md",
+      "provenance": "Parallax research wiki page wiki/concepts/office-of-policy-coordination.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-8af426c9a4a0396450e125732e0a2da1687d8ba04d8e6caf16c17ce9e8566559",
+      "rights": "CC BY 4.0",
+      "sha256": "fda3fea2ae93fe0e65d8f585f9c6764229924ef4a50b49216916106617b16402",
+      "title": "Office of Policy Coordination (OPC)",
+      "topics": [
+        "oversight/investigations-1975"
+      ],
+      "url": "/editions/2026-10/atlas-8af426c9a4a0396450e125732e0a2da1687d8ba04d8e6caf16c17ce9e8566559/"
+    },
+    {
+      "path": "editions/2026-10/atlas-90716c8fb83eb662b41a3c6e8193378b59b8e6882f5fd5bd01204d21a3cef330.md",
+      "provenance": "Parallax research wiki page wiki/concepts/giuffre-memoir.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-90716c8fb83eb662b41a3c6e8193378b59b8e6882f5fd5bd01204d21a3cef330",
+      "rights": "CC BY 4.0",
+      "sha256": "3d6c88699ba0aa784edfd212deb849dcadc43eeba2b53016dc741df8c23596f1",
+      "title": "Giuffre Memoir — Nobody's Girl (2025)",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-90716c8fb83eb662b41a3c6e8193378b59b8e6882f5fd5bd01204d21a3cef330/"
+    },
+    {
+      "path": "editions/2026-10/atlas-91b3b73bb74eb0bc1e5686c2a190dfae60edd66f7d6383ae94895d75d6734366.md",
+      "provenance": "Parallax research wiki page wiki/concepts/mhchaos.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-91b3b73bb74eb0bc1e5686c2a190dfae60edd66f7d6383ae94895d75d6734366",
+      "rights": "CC BY 4.0",
+      "sha256": "2d6fe967584bf339bae507ee189b7fc60be256f533da83ccaa6dc34b3749f2f2",
+      "title": "MHCHAOS",
+      "topics": [
+        "oversight/investigations-1975"
+      ],
+      "url": "/editions/2026-10/atlas-91b3b73bb74eb0bc1e5686c2a190dfae60edd66f7d6383ae94895d75d6734366/"
+    },
+    {
+      "path": "editions/2026-10/atlas-93cbbe463cedd0f46366c946b5a7b8e0aad0184ade12c9d0f1ee61a3325e784a.md",
+      "provenance": "Parallax research wiki page wiki/concepts/executive-power-domestic.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-93cbbe463cedd0f46366c946b5a7b8e0aad0184ade12c9d0f1ee61a3325e784a",
+      "rights": "CC BY 4.0",
+      "sha256": "827599208d61f996b32e464256b3d1d1037755fdf5519625c0eb5665e239f621",
+      "title": "Executive Power in Domestic Affairs",
+      "topics": [
+        "oversight/executive-power"
+      ],
+      "url": "/editions/2026-10/atlas-93cbbe463cedd0f46366c946b5a7b8e0aad0184ade12c9d0f1ee61a3325e784a/"
+    },
+    {
+      "path": "editions/2026-10/atlas-99b093eadc82503e84cb6354f66a06dcdcbaf266ab8f8f7bd1a3721416185d45.md",
+      "provenance": "Parallax research wiki page wiki/concepts/epstein-flight-department.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-99b093eadc82503e84cb6354f66a06dcdcbaf266ab8f8f7bd1a3721416185d45",
+      "rights": "CC BY 4.0",
+      "sha256": "f10d56f9965729d96a513d0af71b18982a2f8f35fea6070d59079c1ff8892ed6",
+      "title": "Epstein Flight Department (JEGE)",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-99b093eadc82503e84cb6354f66a06dcdcbaf266ab8f8f7bd1a3721416185d45/"
+    },
+    {
+      "banner": "Secondary-source summary. This page summarises published books and memoirs (Whitney Webb, Victor Ostrovsky, Gordon Thomas and Martin Dillon, Ari Ben-Menashe, Israel Shahak). Allegations are attributed to their authors and are not independently established by primary records held in this archive.",
+      "path": "editions/2026-10/atlas-9c1fe96c73992632ea790ba69cdc74c13d50fee2a20fbd78e7e337336363728e.md",
+      "provenance": "Parallax research wiki page wiki/concepts/castle-bank-trust.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-9c1fe96c73992632ea790ba69cdc74c13d50fee2a20fbd78e7e337336363728e",
+      "rights": "CC BY 4.0",
+      "sha256": "297b993967ea77ec88294cbcab7adf6d5a5de1ab096a0a3f01827facf346b342",
+      "title": "Castle Bank & Trust",
+      "topics": [
+        "epstein/historical-precursors"
+      ],
+      "url": "/editions/2026-10/atlas-9c1fe96c73992632ea790ba69cdc74c13d50fee2a20fbd78e7e337336363728e/"
+    },
+    {
+      "path": "editions/2026-10/atlas-a087bcd6b03cf10c1c39aaa232672b7bcbc964f20789baa0768b2566ea7a8896.md",
+      "provenance": "Parallax research wiki page wiki/concepts/influence-network.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-a087bcd6b03cf10c1c39aaa232672b7bcbc964f20789baa0768b2566ea7a8896",
+      "rights": "CC BY 4.0",
+      "sha256": "77aff892bfdf19f84d581ef024314fa7f97b199be4e59c9e9c1b79eed5a883bf",
+      "title": "Influence Network",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-a087bcd6b03cf10c1c39aaa232672b7bcbc964f20789baa0768b2566ea7a8896/"
+    },
+    {
+      "path": "editions/2026-10/atlas-a56d8dc86d0bef33ca10472f94853639380d5dddc8daeda970f16484a652cc5f.md",
+      "provenance": "Parallax research wiki page wiki/concepts/interstate-travel-nexus.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-a56d8dc86d0bef33ca10472f94853639380d5dddc8daeda970f16484a652cc5f",
+      "rights": "CC BY 4.0",
+      "sha256": "e4806b98f8d5de6deef7a5410c807047241dec0c8560fbe61b13b67199ba89df",
+      "title": "Interstate Travel Nexus",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-a56d8dc86d0bef33ca10472f94853639380d5dddc8daeda970f16484a652cc5f/"
+    },
+    {
+      "path": "editions/2026-10/atlas-a5a49041ac263fa109c563cdaa40f6ebc2fd5d5911dc4ee16598f309d4500c8d.md",
+      "provenance": "Parallax research wiki page wiki/concepts/fourth-amendment-doctrine.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-a5a49041ac263fa109c563cdaa40f6ebc2fd5d5911dc4ee16598f309d4500c8d",
+      "rights": "CC BY 4.0",
+      "sha256": "4c037f0b0940a7b3694655e8f565cada1fb7b3b88f94b4a9250e28c9ea844033",
+      "title": "Fourth Amendment Doctrine",
+      "topics": [
+        "oversight/surveillance-law"
+      ],
+      "url": "/editions/2026-10/atlas-a5a49041ac263fa109c563cdaa40f6ebc2fd5d5911dc4ee16598f309d4500c8d/"
+    },
+    {
+      "path": "editions/2026-10/atlas-a95c59b4815ecd541267d52ed6bb879fcd3e08d973293fe1a259d89a71df08b8.md",
+      "provenance": "Parallax research wiki page wiki/concepts/presidential-finding.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-a95c59b4815ecd541267d52ed6bb879fcd3e08d973293fe1a259d89a71df08b8",
+      "rights": "CC BY 4.0",
+      "sha256": "5f5f634d34dc9532aff070a84f2a83a333f11fa48910d8b778171742d608d892",
+      "title": "Presidential Finding",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-10/atlas-a95c59b4815ecd541267d52ed6bb879fcd3e08d973293fe1a259d89a71df08b8/"
+    },
+    {
+      "path": "editions/2026-10/atlas-aa29cadea7415df01450c05b9627d3b55815ffa58651f13103fe7705f0f35a44.md",
+      "provenance": "Parallax research wiki page wiki/concepts/rogue-agency-narrative.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-aa29cadea7415df01450c05b9627d3b55815ffa58651f13103fe7705f0f35a44",
+      "rights": "CC BY 4.0",
+      "sha256": "44bb5d7b30d64be7a8570bdf1341b5d8badb062bfb2e20e4ec49f7055bd62d45",
+      "title": "\"Rogue Agency\" Narrative",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-10/atlas-aa29cadea7415df01450c05b9627d3b55815ffa58651f13103fe7705f0f35a44/"
+    },
+    {
+      "path": "editions/2026-10/atlas-b0e5584e58ab9a7887b18fcbc0c84e4461cb8fb09c67ecba3e28655cad6030a1.md",
+      "provenance": "Parallax research wiki page wiki/concepts/sole-organ-doctrine.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-b0e5584e58ab9a7887b18fcbc0c84e4461cb8fb09c67ecba3e28655cad6030a1",
+      "rights": "CC BY 4.0",
+      "sha256": "de8b5002b2adcff846f08d2ff981f697ae14a54cc21df626d2e29c987dea8caf",
+      "title": "Sole Organ Doctrine",
+      "topics": [
+        "oversight/executive-power"
+      ],
+      "url": "/editions/2026-10/atlas-b0e5584e58ab9a7887b18fcbc0c84e4461cb8fb09c67ecba3e28655cad6030a1/"
+    },
+    {
+      "path": "editions/2026-10/atlas-b46a60b395075278b71586345ec49652a297e0f75ecc3f20e9713bb47d4510fe.md",
+      "provenance": "Parallax research wiki page wiki/concepts/victoria-secret-pipeline.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-b46a60b395075278b71586345ec49652a297e0f75ecc3f20e9713bb47d4510fe",
+      "rights": "CC BY 4.0",
+      "sha256": "4b197428382b150ea39557f62a1b9c1a0ff32a35c0a12cbb72fc16215d4b8ac2",
+      "title": "Victoria's Secret Recruitment Pipeline",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-b46a60b395075278b71586345ec49652a297e0f75ecc3f20e9713bb47d4510fe/"
+    },
+    {
+      "path": "editions/2026-10/atlas-b47729ad13a71820f5d8d998b96c881cd27321382a6261a5ebee526c6563e119.md",
+      "provenance": "Parallax research wiki page wiki/concepts/double-government-trumanite-network.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-b47729ad13a71820f5d8d998b96c881cd27321382a6261a5ebee526c6563e119",
+      "rights": "CC BY 4.0",
+      "sha256": "3b8152f5dc2087d085096781b940d3c6e6158933487dc89bbbf0609cebcca8ea",
+      "title": "Double Government / Trumanite Network",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-10/atlas-b47729ad13a71820f5d8d998b96c881cd27321382a6261a5ebee526c6563e119/"
+    },
+    {
+      "path": "editions/2026-10/atlas-b49af3bff7d0a13d896a9991017ccca6591f073c4ffc9bc6695182193cd52f17.md",
+      "provenance": "Parallax research wiki page wiki/concepts/doj-redaction-dispute.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-b49af3bff7d0a13d896a9991017ccca6591f073c4ffc9bc6695182193cd52f17",
+      "rights": "CC BY 4.0",
+      "sha256": "3cface3a56d383e5df9121a884d90dba1869a12f37d208933100f5c578855777",
+      "title": "DAG-Level Control of Epstein Disclosure (DOJ Redaction Dispute)",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-10/atlas-b49af3bff7d0a13d896a9991017ccca6591f073c4ffc9bc6695182193cd52f17/"
+    },
+    {
+      "path": "editions/2026-10/atlas-ba0864ef2c3382b1d49623dabc1f304edce8f13c791c4c7842eca567dd150e12.md",
+      "provenance": "Parallax research wiki page wiki/concepts/executive-counter-mobilization.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-ba0864ef2c3382b1d49623dabc1f304edce8f13c791c4c7842eca567dd150e12",
+      "rights": "CC BY 4.0",
+      "sha256": "2058c6a3e3f664fe20f8f073d2868fae3f36355ab63ff0119b3aa1c83f2acd89",
+      "title": "Executive-Branch Counter-Mobilization",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-10/atlas-ba0864ef2c3382b1d49623dabc1f304edce8f13c791c4c7842eca567dd150e12/"
+    },
+    {
+      "path": "editions/2026-10/atlas-bb294025546bf266f2d292eca269078064a463c350ef580318943399097bff53.md",
+      "provenance": "Parallax research wiki page wiki/concepts/post-watergate-accountability-cluster.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-bb294025546bf266f2d292eca269078064a463c350ef580318943399097bff53",
+      "rights": "CC BY 4.0",
+      "sha256": "e77a0a08194093de4203c368ba2160c165951cc441426066b8120cc18c018bad",
+      "title": "Post-Watergate Accountability Cluster",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-10/atlas-bb294025546bf266f2d292eca269078064a463c350ef580318943399097bff53/"
+    },
+    {
+      "path": "editions/2026-10/atlas-bbd7f288a700c578c6c96a43089b174867a0d7d6dbea5dcadf54feb0054f6fa1.md",
+      "provenance": "Parallax research wiki page wiki/concepts/congressional-immunity-prosecution.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-bbd7f288a700c578c6c96a43089b174867a0d7d6dbea5dcadf54feb0054f6fa1",
+      "rights": "CC BY 4.0",
+      "sha256": "0a58064541e0d95dfc5dafca38a860ca6e6131d5f487f245a6799de89c2889d1",
+      "title": "Congressional Immunity Grants and Prosecution",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-10/atlas-bbd7f288a700c578c6c96a43089b174867a0d7d6dbea5dcadf54feb0054f6fa1/"
+    },
+    {
+      "path": "editions/2026-10/atlas-bcfb3e6b3703331f6d33384aab4c8dfd0a93cd5be140e7928c99c2a0863667d5.md",
+      "provenance": "Parallax research wiki page wiki/concepts/independent-counsel-statute.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-bcfb3e6b3703331f6d33384aab4c8dfd0a93cd5be140e7928c99c2a0863667d5",
+      "rights": "CC BY 4.0",
+      "sha256": "edb489712de06a6c175fd0ba614441aec9f4e81289bf46874776875a91a20352",
+      "title": "Independent Counsel Statute (Ethics in Government Act)",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-10/atlas-bcfb3e6b3703331f6d33384aab4c8dfd0a93cd5be140e7928c99c2a0863667d5/"
+    },
+    {
+      "path": "editions/2026-10/atlas-beb99cc33c9d9ccd6310733c2a35033977240de92ce03a5911490173d4fa63a9.md",
+      "provenance": "Parallax research wiki page wiki/concepts/right-to-be-let-alone.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-beb99cc33c9d9ccd6310733c2a35033977240de92ce03a5911490173d4fa63a9",
+      "rights": "CC BY 4.0",
+      "sha256": "bd7c0eb808910b3732dee1dc44b2c19648154db9fcf4951cd630b8341131bc59",
+      "title": "Right to Be Let Alone",
+      "topics": [
+        "oversight/surveillance-law"
+      ],
+      "url": "/editions/2026-10/atlas-beb99cc33c9d9ccd6310733c2a35033977240de92ce03a5911490173d4fa63a9/"
+    },
+    {
+      "path": "editions/2026-10/atlas-c36f9ea75c06c0eb4f5a35e884bc531c0e02df2cbd05de18898e4b15ec78816f.md",
+      "provenance": "Parallax research wiki page wiki/concepts/cvra-litigation.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-c36f9ea75c06c0eb4f5a35e884bc531c0e02df2cbd05de18898e4b15ec78816f",
+      "rights": "CC BY 4.0",
+      "sha256": "db6e6c4fd89d8dff5d3773aa6752f3f302249b0909fcb2be89ad92bb49e878a1",
+      "title": "CVRA Litigation — Doe v. United States",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-10/atlas-c36f9ea75c06c0eb4f5a35e884bc531c0e02df2cbd05de18898e4b15ec78816f/"
+    },
+    {
+      "path": "editions/2026-10/atlas-c3d52c8c6f8c310282d1e2a875c77e973f3b5d9dc42c95b0774b156429630a38.md",
+      "provenance": "Parallax research wiki page wiki/concepts/pike-report-suppression.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-c3d52c8c6f8c310282d1e2a875c77e973f3b5d9dc42c95b0774b156429630a38",
+      "rights": "CC BY 4.0",
+      "sha256": "6af238673f9fd4ecbacbdf6c25a6223f8b8932735c9a33491983d07dc7c999f6",
+      "title": "Pike Report Suppression and Village Voice Leak",
+      "topics": [
+        "oversight/investigations-1975"
+      ],
+      "url": "/editions/2026-10/atlas-c3d52c8c6f8c310282d1e2a875c77e973f3b5d9dc42c95b0774b156429630a38/"
+    },
+    {
+      "path": "editions/2026-10/atlas-c5731fdf908c1f0f5b91a7b7aa4ad2f00890dcb7f96b2ba042a4e63b50a9a819.md",
+      "provenance": "Parallax research wiki page wiki/concepts/inherent-presidential-authority.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-c5731fdf908c1f0f5b91a7b7aa4ad2f00890dcb7f96b2ba042a4e63b50a9a819",
+      "rights": "CC BY 4.0",
+      "sha256": "139fe837390032cbaed551030f1ca48b23f189daa259adbf1204031240b1e983",
+      "title": "Inherent Presidential Authority",
+      "topics": [
+        "oversight/executive-power"
+      ],
+      "url": "/editions/2026-10/atlas-c5731fdf908c1f0f5b91a7b7aa4ad2f00890dcb7f96b2ba042a4e63b50a9a819/"
+    },
+    {
+      "path": "editions/2026-10/atlas-c6c36087a82eb0661e908f8fa2fb324a23b863415b576818a06c3bec3c3432d1.md",
+      "provenance": "Parallax research wiki page wiki/concepts/dvr-failure.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-c6c36087a82eb0661e908f8fa2fb324a23b863415b576818a06c3bec3c3432d1",
+      "rights": "CC BY 4.0",
+      "sha256": "5a9c64dfd67baf05c36227daa7fde38321367f758f62ce7af1c6d7b04455670b",
+      "title": "DVR Failure (MCC Tier L Camera)",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-c6c36087a82eb0661e908f8fa2fb324a23b863415b576818a06c3bec3c3432d1/"
+    },
+    {
+      "path": "editions/2026-10/atlas-c6ea4179be1638fec69ac95ba37198b8347565b3bca675d9d1ff6892d631ed21.md",
+      "provenance": "Parallax research wiki page wiki/concepts/covert-action-privatization.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-c6ea4179be1638fec69ac95ba37198b8347565b3bca675d9d1ff6892d631ed21",
+      "rights": "CC BY 4.0",
+      "sha256": "299e63450a1bec9e3c6f9715b57b6fdcc6ba053b64b9f8deb4b8a8f988244965",
+      "title": "Covert-Action Privatization",
+      "topics": [
+        "oversight/iran-contra"
+      ],
+      "url": "/editions/2026-10/atlas-c6ea4179be1638fec69ac95ba37198b8347565b3bca675d9d1ff6892d631ed21/"
+    },
+    {
+      "path": "editions/2026-10/atlas-d01c7891da2cd1b01946d2337151249dd45cd30e47f1299af098f742966344d3.md",
+      "provenance": "Parallax research wiki page wiki/concepts/contempt-of-congress.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-d01c7891da2cd1b01946d2337151249dd45cd30e47f1299af098f742966344d3",
+      "rights": "CC BY 4.0",
+      "sha256": "c0416b674086a01b2fe37d0585deab5e299e8faf09d756f2090184ccc2ce3351",
+      "title": "Contempt of Congress",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-10/atlas-d01c7891da2cd1b01946d2337151249dd45cd30e47f1299af098f742966344d3/"
+    },
+    {
+      "path": "editions/2026-10/atlas-d151e008a67cac21e1402ad8a19dc3fbc25ff7f39c3c310975e615604d3afa41.md",
+      "provenance": "Parallax research wiki page wiki/concepts/intelligence-coordinating-group-1975.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-d151e008a67cac21e1402ad8a19dc3fbc25ff7f39c3c310975e615604d3afa41",
+      "rights": "CC BY 4.0",
+      "sha256": "85bebc8ee151e3dfd08396ddc2c2a488d39a91cfc51bb8b0fda7809e661e7f6f",
+      "title": "Intelligence Coordinating Group (ICG)",
+      "topics": [
+        "oversight/investigations-1975"
+      ],
+      "url": "/editions/2026-10/atlas-d151e008a67cac21e1402ad8a19dc3fbc25ff7f39c3c310975e615604d3afa41/"
+    },
+    {
+      "path": "editions/2026-10/atlas-d15b74ff41ca244540c5c7124caeedc0b9af651a0d7a5c926eadefaa5bc4645c.md",
+      "provenance": "Parallax research wiki page wiki/concepts/doj-oig-audit-authority.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-d15b74ff41ca244540c5c7124caeedc0b9af651a0d7a5c926eadefaa5bc4645c",
+      "rights": "CC BY 4.0",
+      "sha256": "52e2e149bba5fddb4fcf4c88923ddd506b890d6f8c6571211e306e918b7f70e1",
+      "title": "DOJ OIG Audit Authority",
+      "topics": [
+        "epstein/legal-record"
+      ],
+      "url": "/editions/2026-10/atlas-d15b74ff41ca244540c5c7124caeedc0b9af651a0d7a5c926eadefaa5bc4645c/"
+    },
+    {
+      "path": "editions/2026-10/atlas-d2b4fcd56933d9ad31fb8ea17bf84613025de659b982bbe858f50a173ead9f9a.md",
+      "provenance": "Parallax research wiki page wiki/concepts/grooming-methodology.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-d2b4fcd56933d9ad31fb8ea17bf84613025de659b982bbe858f50a173ead9f9a",
+      "rights": "CC BY 4.0",
+      "sha256": "8ee90b6a3ba6a1b9802ebbf6585bd49e08231582777e746258de547e3282a472",
+      "title": "Grooming Methodology",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-d2b4fcd56933d9ad31fb8ea17bf84613025de659b982bbe858f50a173ead9f9a/"
+    },
+    {
+      "path": "editions/2026-10/atlas-d96435dc573bddd66705ad8a23737720bc56d00efe328b69dc6c92ab517eac65.md",
+      "provenance": "Parallax research wiki page wiki/concepts/negotiated-oversight.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-d96435dc573bddd66705ad8a23737720bc56d00efe328b69dc6c92ab517eac65",
+      "rights": "CC BY 4.0",
+      "sha256": "b9fd1cf35c7b31ff7b57b804a8bc50ba50c2ae2d44e504120f62fd0f59ef9431",
+      "title": "Negotiated Oversight",
+      "topics": [
+        "oversight/how-oversight-works"
+      ],
+      "url": "/editions/2026-10/atlas-d96435dc573bddd66705ad8a23737720bc56d00efe328b69dc6c92ab517eac65/"
+    },
+    {
+      "path": "editions/2026-10/atlas-d9be6c56b108cc8b4e95c3e4dc25fb6ad49268fec372ddf92b6559048f719e95.md",
+      "provenance": "Parallax research wiki page wiki/concepts/sdny-investigation.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-d9be6c56b108cc8b4e95c3e4dc25fb6ad49268fec372ddf92b6559048f719e95",
+      "rights": "CC BY 4.0",
+      "sha256": "5d99bc3818ba38b7cfd9707223c776e14f747d835ae95e1b0e49d5ea3cd33a9f",
+      "title": "SDNY Epstein Investigation",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-d9be6c56b108cc8b4e95c3e4dc25fb6ad49268fec372ddf92b6559048f719e95/"
+    },
+    {
+      "path": "editions/2026-10/atlas-defa3ea2412eecbce2c4ebc27abf1de9d29d01b0b1e347e8bf0f8a766b715b6e.md",
+      "provenance": "Parallax research wiki page wiki/concepts/mcc-death-investigation.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-defa3ea2412eecbce2c4ebc27abf1de9d29d01b0b1e347e8bf0f8a766b715b6e",
+      "rights": "CC BY 4.0",
+      "sha256": "8e63eef325be775f12c00cfde8b6d6ea0119b912d14316add83983d67ae3d34d",
+      "title": "MCC Death Investigation",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-defa3ea2412eecbce2c4ebc27abf1de9d29d01b0b1e347e8bf0f8a766b715b6e/"
+    },
+    {
+      "path": "editions/2026-10/atlas-e19565a32ce0b3775b2ab13bc91c29a1c384c64c47dd81ee039091863d7a072c.md",
+      "provenance": "Parallax research wiki page wiki/concepts/boland-amendment.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-e19565a32ce0b3775b2ab13bc91c29a1c384c64c47dd81ee039091863d7a072c",
+      "rights": "CC BY 4.0",
+      "sha256": "27c638656e7524ceba7f5b8196fe390c9251e5cb3c7dc8556c8f40e4a79a056f",
+      "title": "Boland Amendment",
+      "topics": [
+        "oversight/iran-contra"
+      ],
+      "url": "/editions/2026-10/atlas-e19565a32ce0b3775b2ab13bc91c29a1c384c64c47dd81ee039091863d7a072c/"
+    },
+    {
+      "path": "editions/2026-10/atlas-e457116824f85a53eed7b82aba6dd27eb64a8bd414cdd70e77d2da7bae9d5db2.md",
+      "provenance": "Parallax research wiki page wiki/concepts/cointelpro.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-e457116824f85a53eed7b82aba6dd27eb64a8bd414cdd70e77d2da7bae9d5db2",
+      "rights": "CC BY 4.0",
+      "sha256": "9815f8afddfe86611ea79a7571951dbcf58061b4522435a9bbabaa0dfd348f20",
+      "title": "COINTELPRO",
+      "topics": [
+        "oversight/investigations-1975"
+      ],
+      "url": "/editions/2026-10/atlas-e457116824f85a53eed7b82aba6dd27eb64a8bd414cdd70e77d2da7bae9d5db2/"
+    },
+    {
+      "path": "editions/2026-10/atlas-e5c32f94b85f134063687213d85ffcf09990bf54b44b0cc3c9c0e12b74e39f20.md",
+      "provenance": "Parallax research wiki page wiki/concepts/declassification-monopoly.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-e5c32f94b85f134063687213d85ffcf09990bf54b44b0cc3c9c0e12b74e39f20",
+      "rights": "CC BY 4.0",
+      "sha256": "e30229636a0c8ccd549c5bd3b719749ca8075923135152aa00176199d58544d7",
+      "title": "Declassification Monopoly",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-10/atlas-e5c32f94b85f134063687213d85ffcf09990bf54b44b0cc3c9c0e12b74e39f20/"
+    },
+    {
+      "path": "editions/2026-10/atlas-e70d52a1647be5649d9b32db02fbfcbdc2224b482d6bd88cd958de9bb50cd901.md",
+      "provenance": "Parallax research wiki page wiki/concepts/client-list.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-e70d52a1647be5649d9b32db02fbfcbdc2224b482d6bd88cd958de9bb50cd901",
+      "rights": "CC BY 4.0",
+      "sha256": "aa74c5ce6d97b7abce71b0e9e0c2a3d119fc3b7b88c542f6afcd19ee9213d1af",
+      "title": "Client List",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-e70d52a1647be5649d9b32db02fbfcbdc2224b482d6bd88cd958de9bb50cd901/"
+    },
+    {
+      "path": "editions/2026-10/atlas-e89fe373b22fc6099fdd0cb85932b8934cfa12d4879c726b8aeaaa722da8f7c6.md",
+      "provenance": "Parallax research wiki page wiki/concepts/trafficking-victims-protection-act.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-e89fe373b22fc6099fdd0cb85932b8934cfa12d4879c726b8aeaaa722da8f7c6",
+      "rights": "CC BY 4.0",
+      "sha256": "c7973610aac442f86141818c7704a6997461bbcc73537edbb4d28ed4841d828e",
+      "title": "Trafficking Victims Protection Act",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-e89fe373b22fc6099fdd0cb85932b8934cfa12d4879c726b8aeaaa722da8f7c6/"
+    },
+    {
+      "path": "editions/2026-10/atlas-efa89019606c27a40edcddf139f7c06d80c404836a79dd6b57a3f60ee84380d4.md",
+      "provenance": "Parallax research wiki page wiki/concepts/arms-for-hostages.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-efa89019606c27a40edcddf139f7c06d80c404836a79dd6b57a3f60ee84380d4",
+      "rights": "CC BY 4.0",
+      "sha256": "da1abebf8f1dd06f056c7725ccfc9a819b175478bb9d75cb10d02eaff8b57ef1",
+      "title": "Arms-for-Hostages (Iran Initiative)",
+      "topics": [
+        "oversight/iran-contra"
+      ],
+      "url": "/editions/2026-10/atlas-efa89019606c27a40edcddf139f7c06d80c404836a79dd6b57a3f60ee84380d4/"
+    },
+    {
+      "path": "editions/2026-10/atlas-efc6ec3160868faad33319f4fa2e150764b247ce0d21f0db6d693eae43cc1c7c.md",
+      "provenance": "Parallax research wiki page wiki/concepts/maxwell-flight-period-2019.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-efc6ec3160868faad33319f4fa2e150764b247ce0d21f0db6d693eae43cc1c7c",
+      "rights": "CC BY 4.0",
+      "sha256": "57521046568fbf4f38db1e936af473e6d07567edc3c4985d99b5dbf8c636bcee",
+      "title": "Maxwell flight period 2019",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-efc6ec3160868faad33319f4fa2e150764b247ce0d21f0db6d693eae43cc1c7c/"
+    },
+    {
+      "path": "editions/2026-10/atlas-fc3465adda7a3213e6919994a17aed9cb17401f216256c0a9f065ee2e89935c3.md",
+      "provenance": "Parallax research wiki page wiki/concepts/iran-contra-second-channel.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-fc3465adda7a3213e6919994a17aed9cb17401f216256c0a9f065ee2e89935c3",
+      "rights": "CC BY 4.0",
+      "sha256": "d63f548b99d718d4b16d3c1e3799d59953597ca13340cb34f5a41d2cbdce5c32",
+      "title": "Iran-Contra Second Channel",
+      "topics": [
+        "oversight/iran-contra"
+      ],
+      "url": "/editions/2026-10/atlas-fc3465adda7a3213e6919994a17aed9cb17401f216256c0a9f065ee2e89935c3/"
+    },
+    {
+      "path": "editions/2026-10/atlas-fdb84220bf71c9f3afc1b707325e69b856d492cdbe4f4025671953dc8c45a420.md",
+      "provenance": "Parallax research wiki page wiki/concepts/suicide-watch-protocols.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-fdb84220bf71c9f3afc1b707325e69b856d492cdbe4f4025671953dc8c45a420",
+      "rights": "CC BY 4.0",
+      "sha256": "d4dc19f0a098c4c0f37adf8fc274d30d0c94655f97833a58ffe099a4ed250088",
+      "title": "Suicide Watch Protocols",
+      "topics": [
+        "epstein/documentary-record"
+      ],
+      "url": "/editions/2026-10/atlas-fdb84220bf71c9f3afc1b707325e69b856d492cdbe4f4025671953dc8c45a420/"
+    },
+    {
+      "path": "editions/2026-10/atlas-fe2fc14544fe627ae724e142b0da58537169218f8133e6e9a209c20bc2d163f2.md",
+      "provenance": "Parallax research wiki page wiki/concepts/intelligence-budget-secrecy.md at the corpus commit and git blob recorded in this approval row; a synthesis of the public scholarship and public-record documents listed in its Source References.",
+      "public_id": "atlas-fe2fc14544fe627ae724e142b0da58537169218f8133e6e9a209c20bc2d163f2",
+      "rights": "CC BY 4.0",
+      "sha256": "6808243d458f4ae1c705c7cdaba3de90fd730e4694cef098d7a6eb1b08cd9655",
+      "title": "Intelligence Budget Secrecy",
+      "topics": [
+        "oversight/oversight-law"
+      ],
+      "url": "/editions/2026-10/atlas-fe2fc14544fe627ae724e142b0da58537169218f8133e6e9a209c20bc2d163f2/"
+    }
+  ],
+  "source_cutoff": "2b1821c4c6db44329c885f3e55bb45f436ad0163"
+}
